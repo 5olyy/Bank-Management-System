@@ -13,7 +13,7 @@ A robust, enterprise-level console application built using Object-Oriented Progr
 * **System Auditing:** Dedicated Login Register screen to track user sessions and timestamps.
 * **File-Based Persistence:** Fully automated local storage using optimized flat files (`.txt`), eliminating the need for heavy external databases.
 
-## 🔐 Default Credentials (بيانات الدخول الافتراضية)
+## 🔐 Default Credentials 
 
 To log in and explore all administrative features and system permissions, use the following default credentials:
 * **Username:** `Admin`
